@@ -7,6 +7,4 @@ MyCourseRequests is a full stack application created with Swift and Django as a 
 
 **Demo**
 
-At the following link, you can see a brief demo of some of the functionality of this application.
-
-[Demo](https://www.youtube.com/watch?v=IAquNRi0T-M)
+At [this link](https://www.youtube.com/watch?v=IAquNRi0T-M), you can see a brief demo of some of the functionality of this application.
